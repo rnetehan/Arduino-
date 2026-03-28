@@ -1,0 +1,3 @@
+English: If you are using the NRF24101 with an adapter, connect it to 5V. Otherwise, the NRF24101 may burn out! (If you don't have an adapter, connect it to 3V.)
+
+Türkçe: NRF24101'i adaptörle kullanıyorsanız, 5V'a bağlayın. Aksi takdirde, NRF24101 yanabilir! (Adaptörünüz yoksa, 3V'a bağlayın.)

@@ -1,0 +1,13 @@
+arduıno 5v  -- nrf adaptör vcc
+
+arduıno gnd -- nrf adaptör gnd
+
+arduıno 9   -- nrf adaptör CE
+
+arduıno 10  -- nrf adaptör CS
+
+arduıno 11  -- nrf adaptör MO
+
+arduıno 12  -- nrf adaptör MI
+
+arduıno 13  -- nrf adaptör SCK
